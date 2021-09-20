@@ -1,0 +1,14 @@
+uuid: c33adc6f-99dd-4456-8140-3b3af192aa59
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - kporras07@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
